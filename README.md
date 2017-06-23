@@ -1,6 +1,9 @@
 # 淺入淺出 VS Code
 
-[Web Slide](https://rawgit.com/mvpdw06/aboutVSCode/master/sides/index.html)
+![image](https://rawgit.com/mvpdw06/aboutVSCode/master/img/vs-code.png)
+
+## 投影片
+[淺入淺出 VS Code](https://rawgit.com/mvpdw06/aboutVSCode/master/sides/index.html)
 
 ## 架構
 1. [Open source](https://github.com/Microsoft/vscode)
