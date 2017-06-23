@@ -42,40 +42,40 @@ Command + Option + K 前往上一個書籤
 ```
 
 2. Spellchecker
-預防 typo 的神器
+> 預防 typo 的神器
 
 3. indent-rainbow
-縮排神器
+>縮排神器
 
 4. Material-Icon Theme
-Icon / folder 非常漂亮與強大的主題
+> Icon / folder 非常漂亮與強大的主題
 
 5. Material
-基於 Material design 的 work bench 主題
+> 基於 Material design 的 work bench 主題
 
 6. Path Intellisense
-import 或是 require 的時候提示相對路徑檔案列表
+> import 或是 require 的時候提示相對路徑檔案列表
 
 7. Rainbow Brackets
-括號以同樣顏色顯示
+> 括號以同樣顏色顯示
 
 8. Theme - Seti-Monokai
-React JSX 語法高亮與高對比推薦
+> React JSX 語法高亮與高對比推薦
 
 9. GitLens
-Diff / Blame 強大的工具
+> Diff / Blame 強大的工具
 
 10. Git History
-列出 Git 的所有歷史紀錄與
+> 列出 Git 的所有歷史紀錄與
 
 11. ESLint
-與專案中的 .eslintrc 整合，提示 coding style 的問題
+> 與專案中的 .eslintrc 整合，提示 coding style 的問題
 
 12. Project Manager
-設定多個專案路徑，快速切換
+> 設定多個專案路徑，快速切換
 
 13. Copy Relative Path
-複製相對路徑
+> 複製相對路徑
 
 ## 推薦 Youtuber
 
