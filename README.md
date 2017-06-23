@@ -80,3 +80,7 @@ Command + Option + K 前往上一個書籤
 ## 推薦 Youtuber
 
 [Editor 編輯者](https://www.youtube.com/channel/UC8-c0VKKqkG_aPe0RG3SF0A)
+
+## 其他
+
+此簡報用於 Xuenn SBK team 內部訓練！:metal::metal::metal:
