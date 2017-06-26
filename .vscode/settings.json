@@ -1,0 +1,16 @@
+// 將您的設定放入此檔案中以覆寫預設值和使用者設定。
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.snippetSuggestions": "top",
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontLigatures": true,
+    "window.zoomLevel": 0,
+    "window.nativeTabs": true,
+    "files.autoSave": "onFocusChange"
+}

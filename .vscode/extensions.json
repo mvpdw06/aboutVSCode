@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "alexdima.copy-relative-path",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "oderwat.indent-rainbow",
+        "Equinusocio.vsc-material-theme",
+        "PKief.material-icon-theme",
+        "christian-kohler.path-intellisense",
+        "2gua.rainbow-brackets",
+        "SmukkeKim.theme-setimonokai"
+    ]
+}
